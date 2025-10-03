@@ -1,0 +1,19 @@
+# Arquivos e diretórios de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+env/
+*.env
+
+# Diretórios de configuração de IDEs
+.idea/
+.vscode/
+
+# Arquivos de build e distribuição
+build/
+dist/
+*.egg-info/
